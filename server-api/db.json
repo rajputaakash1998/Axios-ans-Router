@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "c6133cce-87c9-42b9-90a9-3057f77a06e6",
+      "name": "Aakash Rajput",
+      "email": "aakashrajput201@gmail.com"
+    },
+    {
+      "id": "1c38a16e-4ee1-4aec-87d1-fbc775dcd7cd",
+      "name": "Parul",
+      "email": "pjain@gmail.com"
+    },
+    {
+      "id": "facedc8b-ef54-4f2a-8cb5-fb928e952072",
+      "name": "aakash",
+      "email": "aakashrajput201@gmail.com"
+    },
+    {
+      "id": "0e20a6e2-3f3f-4e9a-9861-957eab375431",
+      "name": "Amit",
+      "email": "amit@googl.ocm"
+    }
+  ]
+}
